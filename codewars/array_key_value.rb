@@ -10,3 +10,5 @@ def keysAndValues(data)
 end
 
 keysAndValues({:a => 1, :b => 2, :c => 3})
+
+#[data.keys, data.values] => EPic Solution
