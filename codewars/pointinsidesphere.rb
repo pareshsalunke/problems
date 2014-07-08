@@ -18,3 +18,4 @@ p in_sphere?([0.5, 0.5, -0.5, -0.5, -0.5], 2)
 #def in_sphere?(coords, radius)
 #  coords.reduce(0) { |s, c| s + c*c } <= radius**2
 #end
+
